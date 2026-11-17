@@ -1,1 +1,3 @@
-# simple-work-on-readme
+interface Resizeable{
+void resizeWidth(int width);
+void resizeHeight(int heigt);
